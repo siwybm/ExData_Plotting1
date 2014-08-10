@@ -1,10 +1,11 @@
 ## Executing scripts
 In order to execute the scripts and generate the plots, please do the following steps:
-1. Download the dataset (see the link below)
-2. Unzip the dataset into your working directory
-3. Copy the plot*.R and load_data.R scripts into your working directory
-4. Source the desired plot*.R script.
-
+<ol>
+<li> Download the dataset (see the link below)</li>
+<li> Unzip the dataset into your working directory</li>
+<li> Copy the plot*.R and load_data.R scripts into your working directory</li>
+<li> Source the desired plot*.R script.</li>
+</ol>
 The graps shall be generated and saved directly in your working directory.
 
 
