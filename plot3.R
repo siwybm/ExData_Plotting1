@@ -5,7 +5,7 @@ source("load_data.R")
 
 #3rd plot
 #Setting device, size and number of graph boxes.
-png(filename="plot3.png", width=480, height=480, units="px")
+png(filename="plot3.png", width=480, height=480, units="px", bg="transparent")
 par(mfrow=c(1,1))
 
 #Plotting first variable and adding 2 others marked in different colors.
